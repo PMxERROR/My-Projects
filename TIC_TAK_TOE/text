@@ -1,0 +1,17 @@
+          LOGIC OF JS TO MAKE THE TIC TAC TOE GAME 🎮🎮🎮                
+STEPS:-
+
+i.    access the All boxes and buttons.
+ii.   We guess past which have turnO or turnX.
+iii.  We store the winning patterns by array.
+iv.   Now we add event listener of boxes by using for each loop.
+v.    When we click the boxes then we add boxes In a text X or O.
+vi.   We now check winner so aired it by function.
+vii.  If the position one and position two and position three are same then match is won.
+viii. Let some variable for position one and position 2 and position 3 (pos1!="" && pos2!=""&& pos3!=""). And winning patterns are (pos1===pos2 && pos2===pos3) then print the winner
+ix.   For print the winner we create a function and call it 
+x.    then add the reset button and new game button
+
+
+
+
